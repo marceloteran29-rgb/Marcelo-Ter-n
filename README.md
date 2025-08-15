@@ -7,5 +7,5 @@
 ---
 📫 Cómo contactarme:  
 - [LinkedIn](https://www.linkedin.com/in/marcelo-terán-alvarado-a546ab37a)
-- [Correo](mailto:marcelo.teran29@gmail.com)
+- [Correo](marcelo.teran29@gmail.com)
 
